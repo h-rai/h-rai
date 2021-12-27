@@ -1,9 +1,10 @@
-Hey I'm Harman,
-  In the process of learning and setting up Github for my future projects; CRM, IT MANAGEMENT 
-  
-  I am open minded and would like to explore a range of programming languages. I am currently familiar with Java, C++ and Python.
-  
-  I would like to explore roles in software development, my background has primarly been focused around working with enterprise customer 
-  experiences.
-  
-  You can reach me though https://www.linkedin.com/in/harman-rai/
+Hey,
+
+Welcome to my Github.
+
+You will find a bunch of projects open, some with value, others will less.
+
+Maybe, one of my projects share a similar vision to yours. If so, reach out via linkedin.com/in/harman-rai/.
+
+Best,
+Harman
